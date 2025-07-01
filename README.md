@@ -1,3 +1,4 @@
+````markdown
 # 📝 Leave Management System
 
 A full-stack web application that allows employees to apply for leaves and admins to manage leave requests efficiently.
@@ -30,11 +31,14 @@ A full-stack web application that allows employees to apply for leaves and admin
 cd frontend
 npm install
 npm start
-```bash
+````
 
-### Screenshots
+## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/63fdf553-562d-44fc-b4af-019575cb6187)
-![image](https://github.com/user-attachments/assets/63fc969e-9f7c-45aa-a8df-09a9e5a05320)
-![image](https://github.com/user-attachments/assets/bc90cb26-2c20-4d7b-9e96-b7e9f45f6ff0)
-![image](https://github.com/user-attachments/assets/444c3185-9368-430e-ace4-3f00bc837b74)
+![Login Page](https://github.com/user-attachments/assets/63fdf553-562d-44fc-b4af-019575cb6187)
+![User Dashboard](https://github.com/user-attachments/assets/63fc969e-9f7c-45aa-a8df-09a9e5a05320)
+![Apply Leave](https://github.com/user-attachments/assets/bc90cb26-2c20-4d7b-9e96-b7e9f45f6ff0)
+![Admin Dashboard](https://github.com/user-attachments/assets/444c3185-9368-430e-ace4-3f00bc837b74)
+
+```
+```
