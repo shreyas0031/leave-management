@@ -30,6 +30,7 @@ A full-stack web application that allows employees to apply for leaves and admin
 cd frontend
 npm install
 npm start
+```bash
 
 ### Screenshots
 
